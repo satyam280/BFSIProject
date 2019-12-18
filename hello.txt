@@ -3,8 +3,12 @@ this is my file,welcome to git... Im here.. Its CAB
 
 class MyClass{
 	System.out.print("Git is a VCS,Version control");
-
+	
+	void greetMethod(String str){
+		sysout(str);
+	}
 	psvm(){}
-
+	
+	
 	
 }
